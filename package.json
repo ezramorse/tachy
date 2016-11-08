@@ -1,0 +1,22 @@
+{
+  "name": "tachy",
+  "version": "0.0.1",
+  "description": "tachy base project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezramorse/tachy.git"
+  },
+  "keywords": [
+    "tachy"
+  ],
+  "author": "Ezra Morse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezramorse/tachy/issues"
+  },
+  "homepage": "https://github.com/ezramorse/tachy#readme"
+}
